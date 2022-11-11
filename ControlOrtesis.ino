@@ -2,8 +2,8 @@ const int valvulaPin[] = {8,11,12,9,10};
 const int motorPin[] = {5,4,7,6,3};
 const int flexPin[] = {A2, A1, A0, A3, A4};
 
-const int q0[] = {20, 10, 20, 7.8, 20};
-const int q1[] = {-20, -10, -20, -7.3, -20};
+const int q0[] = {9.15, 2.71, 6.42, 7.77, 4.31};
+const int q1[] = {-8.85, -1.77, -5.98, -7.3, --3.69};
 
 int e_1[] = {0, 0, 0, 0, 0};
 int u_1[] = {0, 0, 0, 0, 0};
